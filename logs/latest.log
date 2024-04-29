@@ -1,0 +1,303 @@
+[08:54:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:54:07] [ServerMain/INFO]: Loaded 7 recipes
+[08:54:07] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[08:54:07] [Server thread/INFO]: Loading properties
+[08:54:08] [Server thread/INFO]: This server is running CraftBukkit version 4090-Spigot-b754dcc-38b1f49 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[08:54:08] [Server thread/INFO]: Debug logging is disabled
+[08:54:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:54:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:54:08] [Server thread/INFO]: Default game type: SURVIVAL
+[08:54:08] [Server thread/INFO]: Generating keypair
+[08:54:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:54:08] [Server thread/INFO]: Using default channel type
+[08:54:09] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.0.11
+[08:54:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.11
+[08:54:09] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.4[32;1m.[0;39m[m
+[08:54:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:54:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:54:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:54:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:54:10] [Server thread/INFO]: Preparing level "world"
+[08:54:10] [Server thread/INFO]: -------- World Settings For [world] --------
+[08:54:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:54:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:54:10] [Server thread/INFO]: Simulation Distance: 10
+[08:54:10] [Server thread/INFO]: View Distance: 20
+[08:54:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:54:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:54:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:54:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:54:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:54:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[08:54:10] [Server thread/INFO]: Mob Spawn Range: 6
+[08:54:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:54:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[08:54:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Max TNT Explosions: 100
+[08:54:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:54:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08:54:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[08:54:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:54:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:54:10] [Server thread/INFO]: Simulation Distance: 10
+[08:54:10] [Server thread/INFO]: View Distance: 20
+[08:54:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:54:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:54:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:54:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:54:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:54:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[08:54:10] [Server thread/INFO]: Mob Spawn Range: 6
+[08:54:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:54:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[08:54:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Max TNT Explosions: 100
+[08:54:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:54:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08:54:10] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[08:54:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:54:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:54:10] [Server thread/INFO]: Simulation Distance: 10
+[08:54:10] [Server thread/INFO]: View Distance: 20
+[08:54:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:54:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:54:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:54:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:54:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:54:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[08:54:10] [Server thread/INFO]: Mob Spawn Range: 6
+[08:54:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:54:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[08:54:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[08:54:10] [Server thread/INFO]: Max TNT Explosions: 100
+[08:54:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:54:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08:54:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:54:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[08:54:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:54:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[08:54:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[08:54:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[08:54:13] [Worker-Main-7/INFO]: Preparing spawn area: 79%
+[08:54:13] [Server thread/INFO]: Time elapsed: 2614 ms
+[08:54:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:54:14] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[08:54:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[08:54:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:54:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[08:54:15] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[08:54:16] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[08:54:16] [Server thread/INFO]: Time elapsed: 2580 ms
+[08:54:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:54:16] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[08:54:16] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[08:54:17] [Worker-Main-1/INFO]: Preparing spawn area: 79%
+[08:54:17] [Server thread/INFO]: Time elapsed: 1090 ms
+[08:54:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:54:17] [Server thread/INFO]: Done (7.216s)! For help, type "help"
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.0.11[0;39m[m
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m04b5233[0;39m[m
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m[m
+[08:54:17] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[08:55:46] [User Authenticator #1/INFO]: UUID of player diogostk is c32ab9ad-1d7d-38d7-bba3-bdd0a2deea39
+[08:55:47] [Server thread/INFO]: diogostk joined the game
+[08:55:47] [Server thread/INFO]: diogostk[/26.14.24.107:56183] logged in with entity id 194 at ([world]1250.600729103077, 71.0, 259.85917564250934)
+[09:06:59] [Server thread/INFO]: diogostk fell from a high place
+[09:40:49] [Server thread/INFO]: diogostk has made the advancement [Enchanter]
+[09:59:33] [Server thread/INFO]: diogostk has reached the goal [Zombie Doctor]
+[11:03:20] [User Authenticator #2/INFO]: UUID of player phspedro is 60b4dcf4-24d4-308d-aa2c-b1366cc093b7
+[11:03:20] [Server thread/INFO]: phspedro joined the game
+[11:03:20] [Server thread/INFO]: phspedro[/26.89.43.151:49241] logged in with entity id 42003 at ([world]1249.2867017055567, 75.0, 947.9033185894364)
+[11:03:28] [Async Chat Thread - #0/INFO]: [Not Secure] <phspedro> bom dia
+[11:03:40] [Async Chat Thread - #0/INFO]: [Not Secure] <diogostk> bomdia
+[11:03:42] [Async Chat Thread - #0/INFO]: [Not Secure] <diogostk> discord
+[11:04:07] [Server thread/INFO]: diogostk lost connection: Disconnected
+[11:04:07] [Server thread/INFO]: diogostk left the game
+[11:10:59] [User Authenticator #3/INFO]: UUID of player diogostk is c32ab9ad-1d7d-38d7-bba3-bdd0a2deea39
+[11:10:59] [Server thread/INFO]: diogostk joined the game
+[11:10:59] [Server thread/INFO]: diogostk[/26.14.24.107:50325] logged in with entity id 44317 at ([world]1243.5485321644283, 70.0, 267.24609882604005)
+[11:12:22] [Async Chat Thread - #2/INFO]: [Not Secure] <phspedro> 156 78 56
+[11:17:12] [Server thread/INFO]: diogostk lost connection: Disconnected
+[11:17:12] [Server thread/INFO]: diogostk left the game
+[11:19:00] [User Authenticator #4/INFO]: UUID of player diogostk is c32ab9ad-1d7d-38d7-bba3-bdd0a2deea39
+[11:19:00] [Server thread/INFO]: diogostk joined the game
+[11:19:00] [Server thread/INFO]: diogostk[/26.14.24.107:50496] logged in with entity id 48233 at ([world]1223.7006871788283, 77.0, 263.7804499689966)
+[11:28:17] [Server thread/INFO]: phspedro has made the advancement [Hidden in the Depths]
+[11:42:37] [Server thread/INFO]: diogostk lost connection: Disconnected
+[11:42:37] [Server thread/INFO]: diogostk left the game
+[11:42:52] [Server thread/INFO]: phspedro has made the advancement [Enchanter]
+[11:43:03] [User Authenticator #5/INFO]: UUID of player diogostk is c32ab9ad-1d7d-38d7-bba3-bdd0a2deea39
+[11:43:03] [Server thread/INFO]: diogostk joined the game
+[11:43:03] [Server thread/INFO]: diogostk[/26.14.24.107:50548] logged in with entity id 62798 at ([world]1229.9732372329477, 69.5, 265.5082324296271)
+[11:44:24] [Server thread/INFO]: phspedro has made the advancement [What a Deal!]
+[12:07:43] [Server thread/INFO]: Villager EntityVillager['Villager'/72619, l='ServerLevel[world]', x=1225.04, y=68.00, z=316.24] died, message: 'Villager was slain by Zombie'
+[12:08:07] [Server thread/INFO]: Villager EntityVillager['Villager'/72604, l='ServerLevel[world]', x=1204.73, y=70.00, z=276.25] died, message: 'Villager was slain by Zombie'
+[12:09:51] [Server thread/INFO]: Villager EntityVillager['Fletcher'/72566, l='ServerLevel[world]', x=1249.70, y=70.00, z=261.30] died, message: 'Fletcher was slain by Zombie'
+[12:09:55] [Server thread/INFO]: Villager EntityVillager['Villager'/72650, l='ServerLevel[world]', x=1193.59, y=70.00, z=264.21] died, message: 'Villager was slain by Zombie'
+[12:29:10] [Server thread/INFO]: Villager EntityVillager['Villager'/72617, l='ServerLevel[world]', x=1232.63, y=70.00, z=262.58] died, message: 'Villager was slain by Zombie'
+[12:29:28] [Server thread/INFO]: Villager EntityVillager['Villager'/72605, l='ServerLevel[world]', x=1232.38, y=70.00, z=267.49] died, message: 'Villager was slain by Zombie'
+[12:41:35] [Async Chat Thread - #4/INFO]: [Not Secure] <diogostk> ta ai
+[12:41:37] [Async Chat Thread - #4/INFO]: [Not Secure] <diogostk> ?
+[12:41:51] [Async Chat Thread - #4/INFO]: [Not Secure] <phspedro> to
+[12:41:56] [Async Chat Thread - #4/INFO]: [Not Secure] <phspedro> to no end farmando xp
+[13:03:59] [Server thread/WARN]: phspedro moved wrongly!
+[13:05:32] [Server thread/INFO]: diogostk fell out of the world
+[13:14:19] [Server thread/INFO]: phspedro lost connection: Disconnected
+[13:14:19] [Server thread/INFO]: phspedro left the game
+[13:14:19] [Server thread/WARN]: handleDisconnection() called twice
+[13:37:30] [User Authenticator #6/INFO]: UUID of player phspedro is 60b4dcf4-24d4-308d-aa2c-b1366cc093b7
+[13:37:30] [Server thread/INFO]: phspedro joined the game
+[13:37:30] [Server thread/INFO]: phspedro[/26.89.43.151:58729] logged in with entity id 127031 at ([world]1233.118172059108, 74.0, 944.5731923511784)
+[13:38:38] [Server thread/INFO]: phspedro has made the advancement [Voluntary Exile]
+[14:08:28] [Server thread/INFO]: phspedro has made the advancement [Withering Heights]
+[14:12:24] [Async Chat Thread - #6/INFO]: [Not Secure] <diogostk> 116 8321
+[14:26:43] [Server thread/INFO]: phspedro has made the advancement [Bring Home the Beacon]
+[14:41:02] [Server thread/INFO]: diogostk hit the ground too hard
+[15:07:05] [Server thread/INFO]: phspedro lost connection: Disconnected
+[15:07:05] [Server thread/INFO]: phspedro left the game
+[15:10:45] [User Authenticator #7/INFO]: UUID of player phspedro is 60b4dcf4-24d4-308d-aa2c-b1366cc093b7
+[15:10:45] [Server thread/INFO]: phspedro joined the game
+[15:10:45] [Server thread/INFO]: phspedro[/26.89.43.151:59147] logged in with entity id 224477 at ([world]1227.0866266333683, 68.0, 1016.1349942650533)
+[15:22:02] [Async Chat Thread - #8/INFO]: [Not Secure] <phspedro> 143 120
+[15:22:31] [Server thread/INFO]: diogostk lost connection: Disconnected
+[15:22:31] [Server thread/INFO]: diogostk left the game
+[15:23:30] [User Authenticator #8/INFO]: UUID of player diogostk is c32ab9ad-1d7d-38d7-bba3-bdd0a2deea39
+[15:23:30] [Server thread/INFO]: diogostk joined the game
+[15:23:30] [Server thread/INFO]: diogostk[/26.14.24.107:51301] logged in with entity id 228083 at ([world_nether]153.41807521236888, 75.0, 128.330376418708)
+[15:29:43] [Server thread/INFO]: phspedro has made the advancement [Those Were the Days]
+[15:29:44] [Server thread/INFO]: diogostk has made the advancement [Those Were the Days]
+[15:30:38] [Server thread/INFO]: diogostk has made the advancement [War Pigs]
+[15:30:40] [Server thread/INFO]: phspedro has made the advancement [War Pigs]
+[15:33:53] [Server thread/INFO]: diogostk tried to swim in lava to escape Magma Cube
+[15:35:39] [Server thread/INFO]: diogostk lost connection: Disconnected
+[15:35:40] [Server thread/INFO]: diogostk left the game
+[15:38:46] [User Authenticator #9/INFO]: UUID of player diogostk is c32ab9ad-1d7d-38d7-bba3-bdd0a2deea39
+[15:38:46] [Server thread/INFO]: diogostk joined the game
+[15:38:46] [Server thread/INFO]: diogostk[/26.14.24.107:51346] logged in with entity id 235630 at ([world]1258.4307968102055, 72.0, 1052.6129071252294)
+[15:49:46] [Server thread/INFO]: diogostk tried to swim in lava
+[16:02:54] [Server thread/INFO]: diogostk lost connection: Disconnected
+[16:02:54] [Server thread/INFO]: diogostk left the game
+[16:18:21] [Server thread/INFO]: Villager EntityVillager['Villager'/256671, l='ServerLevel[world]', x=1205.63, y=69.00, z=255.39] died, message: 'Villager was slain by Zombie'
+[16:20:29] [User Authenticator #10/INFO]: UUID of player diogostk is c32ab9ad-1d7d-38d7-bba3-bdd0a2deea39
+[16:20:29] [Server thread/INFO]: diogostk joined the game
+[16:20:29] [Server thread/INFO]: diogostk[/26.14.24.107:51692] logged in with entity id 259130 at ([world]1234.146221737599, 70.0, 153.81705636239784)
+[17:29:31] [Server thread/INFO]: phspedro lost connection: Disconnected
+[17:29:31] [Server thread/INFO]: phspedro left the game
+[17:32:59] [User Authenticator #11/INFO]: UUID of player phspedro is 60b4dcf4-24d4-308d-aa2c-b1366cc093b7
+[17:32:59] [Server thread/INFO]: phspedro joined the game
+[17:32:59] [Server thread/INFO]: phspedro[/26.89.43.151:59705] logged in with entity id 306652 at ([world]1256.8350566469353, 72.0, 1051.7058962349995)
+[17:34:42] [Async Chat Thread - #10/INFO]: [Not Secure] <diogostk> me da bloco de esmeralda
+[17:34:51] [Async Chat Thread - #9/INFO]: [Not Secure] <phspedro> vou pega mending
+[17:34:56] [Async Chat Thread - #10/INFO]: [Not Secure] <diogostk> é do outro lado
+[17:35:00] [Async Chat Thread - #9/INFO]: [Not Secure] <diogostk> o de 10
+[17:35:20] [Async Chat Thread - #10/INFO]: [Not Secure] <phspedro> vlw
+[17:35:30] [Async Chat Thread - #10/INFO]: [Not Secure] <diogostk> tem mais esmeraldoa?
+[17:36:50] [Async Chat Thread - #12/INFO]: [Not Secure] <phspedro> vou no criativo por um tempo ver como exatamente vai ficar minha base
+[17:37:08] [Server thread/INFO]: phspedro lost connection: Disconnected
+[17:37:08] [Server thread/INFO]: phspedro left the game
+[18:18:11] [Server thread/INFO]: diogostk lost connection: Disconnected
+[18:18:11] [Server thread/INFO]: diogostk left the game
+[18:21:23] [User Authenticator #12/INFO]: UUID of player diogostk is c32ab9ad-1d7d-38d7-bba3-bdd0a2deea39
+[18:21:23] [Server thread/INFO]: diogostk joined the game
+[18:21:23] [Server thread/INFO]: diogostk[/26.14.24.107:52655] logged in with entity id 316232 at ([world]1243.187204781228, 70.0, 267.83796240742777)
+[18:28:24] [Server thread/INFO]: diogostk lost connection: Disconnected
+[18:28:24] [Server thread/INFO]: diogostk left the game
+[18:46:14] [User Authenticator #13/INFO]: UUID of player diogostk is c32ab9ad-1d7d-38d7-bba3-bdd0a2deea39
+[18:46:14] [Server thread/INFO]: diogostk joined the game
+[18:46:14] [Server thread/INFO]: diogostk[/26.14.24.107:52732] logged in with entity id 322274 at ([world]1246.699999988079, 70.0, 272.69999998807907)
+[19:26:35] [Server thread/WARN]: diogostk moved too quickly! -927.4347670829673,56.67974951304926,-877.857346833488
+[19:26:35] [Server thread/INFO]: diogostk fell from a high place
+[19:37:16] [Server thread/INFO]: diogostk lost connection: Disconnected
+[19:37:16] [Server thread/INFO]: diogostk left the game
+[19:43:00] [User Authenticator #14/INFO]: UUID of player diogostk is c32ab9ad-1d7d-38d7-bba3-bdd0a2deea39
+[19:43:00] [Server thread/INFO]: diogostk joined the game
+[19:43:00] [Server thread/INFO]: diogostk[/26.14.24.107:52973] logged in with entity id 345894 at ([world]1252.907040819326, 72.0, 1051.715911281367)
+[19:48:17] [Server thread/INFO]: diogostk was doomed to fall
+[20:21:40] [User Authenticator #15/INFO]: UUID of player phspedro is 60b4dcf4-24d4-308d-aa2c-b1366cc093b7
+[20:21:41] [Server thread/INFO]: phspedro joined the game
+[20:21:41] [Server thread/INFO]: phspedro[/26.89.43.151:60348] logged in with entity id 357841 at ([world]1255.2130308835488, 69.5625, 964.4002903131029)
+[20:29:31] [Server thread/INFO]: Villager EntityVillager['Villager'/354017, l='ServerLevel[world]', x=1247.70, y=70.00, z=273.70] died, message: 'Villager was slain by diogostk'
+[20:38:13] [Async Chat Thread - #14/INFO]: [Not Secure] <diogostk> villager, me de sharpness V
+[20:40:14] [Server thread/WARN]: phspedro moved too quickly! -928.0356968514654,55.03363195835877,-877.9972500365665
+[20:41:31] [Server thread/INFO]: phspedro lost connection: Disconnected
+[20:41:31] [Server thread/INFO]: phspedro left the game
+[20:41:53] [User Authenticator #16/INFO]: UUID of player phspedro is 60b4dcf4-24d4-308d-aa2c-b1366cc093b7
+[20:41:53] [Server thread/INFO]: phspedro joined the game
+[20:41:53] [Server thread/INFO]: phspedro[/26.89.43.151:60431] logged in with entity id 379878 at ([world]1027.300000011921, 15.959074344025389, 877.0746335866908)
+[20:43:59] [Server thread/INFO]: phspedro lost connection: Disconnected
+[20:43:59] [Server thread/INFO]: phspedro left the game
+[20:51:43] [Server thread/INFO]: diogostk lost connection: Disconnected
+[20:51:43] [Server thread/INFO]: diogostk left the game
+[20:51:51] [Server thread/INFO]: Stopping the server
+[20:51:51] [Server thread/INFO]: Stopping server
+[20:51:51] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.0.11
+[20:51:51] [Server thread/INFO]: Saving players
+[20:51:51] [Server thread/INFO]: Saving worlds
+[20:51:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:51:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:51:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:51:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:51:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:51:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:51:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

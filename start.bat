@@ -1,0 +1,1 @@
+java -Xms16G -Xmx16G -jar spigot-1.20.4.jar nogui
